@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Charlie Brown",
+      "email": "charlie.brown@email.com",
+      "id": "62af3a8c-7795-4da2-85b5-5a17b1afad51"
+    },
+    {
+      "id": "38ad7c4f-9705-4b5f-8970-bb42ff48e541",
+      "name": "Diana Evans",
+      "email": "diana.evans@email.com"
+    },
+    {
+      "name": "Ethan Clark",
+      "email": "ethan.clark@email.com",
+      "id": "6f5272f0-52fc-4171-86ff-0be034e77217"
+    },
+    {
+      "id": "fa4f281e-a8ba-4cd0-9739-13253b38487c",
+      "name": "Isaac Taylor",
+      "email": "isaac.taylor@email.com"
+    },
+    {
+      "name": "Julia Moore",
+      "email": "julia.moore@email.com",
+      "id": "d1a56cc1-8263-4e64-8679-51c5ae5e149c"
+    },
+    {
+      "name": "joalison",
+      "email": "joaloisonx@email.oom",
+      "id": "45818a19-bccb-410b-953c-2754e0bef111"
+    },
+    {
+      "id": "8fff27c9-3a96-4a0e-a700-0cc8c52b7666",
+      "name": "Larissa Moreira de Lisboa",
+      "email": "brunoyoucom@gmail.com"
+    }
+  ]
+}
